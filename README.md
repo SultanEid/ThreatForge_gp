@@ -4,4 +4,4 @@ fixed by sultab
 
 another fiix
 
-abdullah is here 
+abdullah is here .
