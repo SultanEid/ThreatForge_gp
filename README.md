@@ -6,4 +6,4 @@ another fiix
 
 abdullah is here 
 
-Muhammad sends his regards
+Muhammad sends his regards.
