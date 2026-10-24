@@ -10,7 +10,7 @@ Turn captured network evidence into an explorable story of what happened.
 
 ![Status](https://img.shields.io/badge/status-in%20development-64748b?style=flat-square)
 ![Project](https://img.shields.io/badge/project-CS%20capstone-2563eb?style=flat-square)
-![Focus](https://img.shields.io/badge/focus-network%20forensics-0f766e?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-post--incident%20analysis-0f766e?style=flat-square)
 
 </div>
 
