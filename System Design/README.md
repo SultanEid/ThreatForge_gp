@@ -9,7 +9,7 @@ Each document explains the responsibilities, processing methods, data structures
 | Component | Design Document | Description |
 |---|---|---|
 | Component 1 | [Network Processing Design](./Network%20Processing%20Design_Component%201.md) | Explains PCAP processing, Zeek network measurements, parsing and normalization, observation sampling, feature engineering, asset discovery, and functional role inference. |
-| Component 2 | [ML Classification Design](./ML%20Classification%20Design_Component%202.md) | Covers dataset preparation, activity-class selection, Random Forest classification, prediction interpretation, Security Event Builder, Event Grouping, and evidence-linked event generation. |
+| Component 2 | [ML Classification Design]([./ML%20Classification%20Design_Component%202.md](https://github.com/SultanEid/ThreatForge_gp/blob/a9e857463652a1072fe54b0d5fa2475312692184/System%20Design/The%20complete%20details%20behind%20the%20network%20processing%20design(component%201).md)) | Covers dataset preparation, activity-class selection, Random Forest classification, prediction interpretation, Security Event Builder, Event Grouping, and evidence-linked event generation. |
 | Component 3 | Event Correlation Design | Describes how Security Events are evaluated and linked using supported network evidence, shared identities, and temporal relationships. |
 | Component 4 | Attack Reconstruction Design | Explains how correlated Security Events are organized into evidence-supported activity sequences and relationships. |
 | Component 5 | Graphical DSL & Visualization Design | Describes how reconstructed activity is represented through a graphical domain-specific language and presented to users. |
